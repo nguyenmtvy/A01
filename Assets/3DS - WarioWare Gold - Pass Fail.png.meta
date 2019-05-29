@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: 30bb996e72d3377409e129507ae6d5d5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3DS - WarioWare Gold - Pass Fail_0
+    21300002: 3DS - WarioWare Gold - Pass Fail_1
+    21300004: 3DS - WarioWare Gold - Pass Fail_2
+    21300006: 3DS - WarioWare Gold - Pass Fail_3
+    21300008: 3DS - WarioWare Gold - Pass Fail_4
+    21300010: 3DS - WarioWare Gold - Pass Fail_5
+    21300012: 3DS - WarioWare Gold - Pass Fail_6
+    21300014: 3DS - WarioWare Gold - Pass Fail_7
+    21300016: 3DS - WarioWare Gold - Pass Fail_8
+    21300018: 3DS - WarioWare Gold - Pass Fail_9
+    21300020: 3DS - WarioWare Gold - Pass Fail_10
+    21300022: 3DS - WarioWare Gold - Pass Fail_11
+    21300024: 3DS - WarioWare Gold - Pass Fail_12
+    21300026: 3DS - WarioWare Gold - Pass Fail_13
+    21300028: 3DS - WarioWare Gold - Pass Fail_14
+    21300030: 3DS - WarioWare Gold - Pass Fail_15
+    21300032: 3DS - WarioWare Gold - Pass Fail_16
+    21300034: 3DS - WarioWare Gold - Pass Fail_17
+    21300036: 3DS - WarioWare Gold - Pass Fail_18
+    21300038: 3DS - WarioWare Gold - Pass Fail_19
+    21300040: 3DS - WarioWare Gold - Pass Fail_20
+    21300042: 3DS - WarioWare Gold - Pass Fail_21
+    21300044: 3DS - WarioWare Gold - Pass Fail_22
+    21300046: 3DS - WarioWare Gold - Pass Fail_23
+    21300048: 3DS - WarioWare Gold - Pass Fail_24
+    21300050: 3DS - WarioWare Gold - Pass Fail_25
+    21300052: 3DS - WarioWare Gold - Pass Fail_26
+    21300054: 3DS - WarioWare Gold - Pass Fail_27
+    21300056: 3DS - WarioWare Gold - Pass Fail_28
+    21300058: 3DS - WarioWare Gold - Pass Fail_29
+    21300060: 3DS - WarioWare Gold - Pass Fail_30
+    21300062: 3DS - WarioWare Gold - Pass Fail_31
+    21300064: 3DS - WarioWare Gold - Pass Fail_32
+    21300066: 3DS - WarioWare Gold - Pass Fail_33
+    21300068: 3DS - WarioWare Gold - Pass Fail_34
+    21300070: 3DS - WarioWare Gold - Pass Fail_35
+    21300072: 3DS - WarioWare Gold - Pass Fail_36
+    21300074: 3DS - WarioWare Gold - Pass Fail_37
+    21300076: 3DS - WarioWare Gold - Pass Fail_38
+    21300078: 3DS - WarioWare Gold - Pass Fail_39
+    21300080: 3DS - WarioWare Gold - Pass Fail_40
+    21300082: 3DS - WarioWare Gold - Pass Fail_41
+    21300084: 3DS - WarioWare Gold - Pass Fail_42
+    21300086: 3DS - WarioWare Gold - Pass Fail_43
+    21300088: 3DS - WarioWare Gold - Pass Fail_44
+    21300090: 3DS - WarioWare Gold - Pass Fail_45
+    21300092: 3DS - WarioWare Gold - Pass Fail_46
+    21300094: 3DS - WarioWare Gold - Pass Fail_47
+    21300096: 3DS - WarioWare Gold - Pass Fail_48
+    21300098: 3DS - WarioWare Gold - Pass Fail_49
+    21300100: 3DS - WarioWare Gold - Pass Fail_50
+    21300102: 3DS - WarioWare Gold - Pass Fail_51
+    21300104: 3DS - WarioWare Gold - Pass Fail_52
+    21300106: 3DS - WarioWare Gold - Pass Fail_53
+    21300108: 3DS - WarioWare Gold - Pass Fail_54
+    21300110: 3DS - WarioWare Gold - Pass Fail_55
+    21300112: 3DS - WarioWare Gold - Pass Fail_56
+    21300114: 3DS - WarioWare Gold - Pass Fail_57
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1380
+        width: 292
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acf662f936b4ea409e4bf6f9b31cf81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1300
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161ae097c57a2ab42986e3ff99a956b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1300
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3792a04b08dbb97429f80b654451222b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1300
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e57531fea793343908cf1fe5bbdbb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1216
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e106a4cc91892f4c8ee63fe33a3fe7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1215
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428f371c36e09fa448595d8591fa1be7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1219
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb03a48c716a7074585b19a055811d17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1135
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353eb13309f24234299cf3b28dd2e539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1129
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1508298948b21fe459d90679235e946c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1129
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e920cf276647bd4986726c53f347ba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1048
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8fde6050b321c4a8913cda57902c8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1048
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63b079ebc11e2a409e746fde2bc303a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1048
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ce555ab3cbe45408bdd93f7ec34c57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 964
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb06468345e9a946a16d21ea457f075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 966
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e0ae7600351d941886aaec8c228b43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 968
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9b5baed139d014fabfffb43ed4bbce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 884
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0d3244226c8e64599da30db6759b5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 878
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc50b7c4ae10d14a821bfb315972a38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 876
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602503a9e45fbba4cb6cc07469bcaf6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 796
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26e4fddbb0bd9b46b4447bf154e52f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 796
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c41aeaf510fb4fa7466c9015cbd11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 796
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff33eed71dd7684dae0f04b1cd11c9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 712
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f01b9264dd6e04db1612434bbbc380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 716
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1cf8f3ef7ebb642a47e52b456b5903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 716
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96459aafcda249443bd54792e8a30532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 632
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15315b3e7a1e3fd47a84a013592df2fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 629
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561e2bb73bc54d34599ea5566ac8f01d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 627
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06abad89bca71744d8037e3c17bb589c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 544
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6082fae2dc4504195db2d2ab256917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 544
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e28bc70131134e9e9feb40bf30b08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 544
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eb3224c6547d44fb07d7eb9649d604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 460
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0faf13ae6f23f4784f8c8e0ad29023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 461
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b505d65409af4d941acc1a2b1f4de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 462
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d9aa1d01d9f4b4e9d3592b278db347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 378
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10ab33a0d48d98429f0b64e67474397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 377
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5813c21750e37ed42a1e29b2eac15ddf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_36
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 374
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cc465b46ec2984ab439c651579c18d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 288
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57af614b025f274ea65797b66d11c6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 288
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74646f6e6f0877c4cb6a2b06bc5080e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_39
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 291
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced8ed3e9b568cc44a8b1980395c397f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 207
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9636c60c4f6d844b1cac21e59257bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 209
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3dc5973ba5ba84ca5535fad1b9f2db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 209
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6106cb6459902864fa6a02064c650291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 122
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8810563e2895f64a806bc845058b9ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 122
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeb9cedede84204e8660a7d52d02237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 188
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5eeceb0d0853e4fa48604d99975de7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_46
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 188
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce7def13631403499f597c16e166d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_47
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 189
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59124b1729c178e488cc016adb9fd756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 146
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077e2ade68f98a344a2bcf7e6e7be2f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 62
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd2a91c6eb982546b1faf8e1dc973ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 64
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833fbb4e7cf5c7a4093f5049005dd68d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 62
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1613fe22bd52414d89ca0e19d611983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_52
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 62
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753b3b6bd7d67824894a00ac00c3d68e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_53
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 62
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6078b01fbc0bb4447a83bde23da6349b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_54
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 62
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c3a370d1bac1d4da645f9f5b0b19be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_55
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 62
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ccc867929e9144da96f9db24fcd636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d4bd07a2729cb429a9045f06033f74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - WarioWare Gold - Pass Fail_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 24
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df16ca362af606043b920e3772159928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b246ecf847f5cd946aa6e3125af29892
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
